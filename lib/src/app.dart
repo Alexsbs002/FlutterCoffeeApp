@@ -7,6 +7,7 @@ class CoffeeShopApp extends StatelessWidget {
   const CoffeeShopApp({Key? key}) : super(key: key);
 
   @override
+
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
